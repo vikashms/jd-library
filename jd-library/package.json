@@ -1,14 +1,13 @@
 
 {
- "author": {
-    "name": "Vikash Sharma",
-    "email": "vikash.sharma@justdial.com"
-  },
-  "bugs": {
-    "url": "https://github.com/vikashms/jd-library/issues"
-  },
-  "dependencies": {
-    "warning": "^4.0.3"
-  },
-  "name": "jd-library"
-}
+    "author": {
+       "name": "Vikash Sharma",
+       "email": "vikash.sharma@justdial.com"
+     },
+     "bugs": {
+       "url": "https://github.com/vikashms/jd-library/issues"
+     },
+     "main": "index.js",
+     "name": "jd-library",
+     "version":"1.0"
+   }

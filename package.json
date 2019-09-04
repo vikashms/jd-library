@@ -7,23 +7,6 @@
   "bugs": {
     "url": "https://github.com/vikashms/jd-library/issues"
   },
-  "dependencies": {
-    "@babel/runtime": "^7.4.2",
-    "@react-bootstrap/react-popper": "1.2.1",
-    "@restart/context": "^2.1.4",
-    "@restart/hooks": "^0.3.11",
-    "classnames": "^2.2.6",
-    "dom-helpers": "^3.4.0",
-    "invariant": "^2.2.4",
-    "keycode": "^2.2.0",
-    "popper.js": "^1.14.7",
-    "prop-types": "^15.7.2",
-    "prop-types-extra": "^1.1.0",
-    "react-overlays": "^1.2.0",
-    "react-transition-group": "^4.0.0",
-    "uncontrollable": "^7.0.0",
-    "warning": "^4.0.3"
-  },
   "main": "index.js",
   "name": "jd-library",
   "version":"1.0"
