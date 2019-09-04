@@ -24,5 +24,6 @@
     "uncontrollable": "^7.0.0",
     "warning": "^4.0.3"
   },
-  "name": "jd-library"
+  "name": "jd-library",
+  "version":"1.0"
 }
